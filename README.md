@@ -7,4 +7,4 @@ This dataset consists of:
 400 human activity recognition classes
 At least 400 video clips per class (downloaded via YouTube)
 A total of 300,000 videos
-link- https://arxiv.org/abs/1705.06950
+link-https://drive.google.com/file/d/1oHP6G4Xo2E2lvJqqyoKTMzdDRAVsClot/view?usp=sharing
