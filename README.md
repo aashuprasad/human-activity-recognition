@@ -1,5 +1,3 @@
-# ashus_projects
-
 The dataset our human activity recognition model was trained on is the Kinetics 400 Dataset.
 
 This dataset consists of:
